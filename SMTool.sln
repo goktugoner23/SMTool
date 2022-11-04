@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTool", "SMTool\SMTool.csproj", "{CAEDA5B2-024B-46A8-9EBD-B3B456802BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAEDA5B2-024B-46A8-9EBD-B3B456802BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEDA5B2-024B-46A8-9EBD-B3B456802BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEDA5B2-024B-46A8-9EBD-B3B456802BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEDA5B2-024B-46A8-9EBD-B3B456802BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE103CD6-7F2C-4AB2-842A-DE2F830A6F49}
+	EndGlobalSection
+EndGlobal

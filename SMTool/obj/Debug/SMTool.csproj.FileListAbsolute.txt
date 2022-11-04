@@ -1,0 +1,91 @@
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\SMTool.exe.config
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\SMTool.exe
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\SMTool.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.csprojAssemblyReference.cache
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.Properties.Resources.resources
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.csproj.GenerateResource.cache
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.csproj.CoreCompileInputs.cache
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.exe
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.SMTool.resources
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.Interaction_Graph.resources
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Autofac.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Nito.Disposables.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\System.Collections.Immutable.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Core.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Security.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Autofac.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Autofac.xml
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Nito.Disposables.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Nito.Disposables.xml
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\System.Collections.Immutable.xml
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Controllers.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Core.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Credentials.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Factories.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Logic.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Security.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.Streams.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\bin\Debug\Tweetinvi.WebLogic.pdb
+C:\Users\29755344504etu\Source\Repos\SMTool\SMTool\obj\Debug\SMTool.csproj.CopyComplete
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\SMTool.exe.config
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\SMTool.exe
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\SMTool.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Autofac.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Newtonsoft.Json.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Context.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Tasks.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Nito.Disposables.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\System.Collections.Immutable.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Controllers.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Core.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Credentials.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Factories.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Logic.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Security.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Streams.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.WebLogic.dll
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Autofac.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Autofac.xml
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Newtonsoft.Json.xml
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Context.xml
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Nito.AsyncEx.Tasks.xml
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Nito.Disposables.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Nito.Disposables.xml
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\System.Collections.Immutable.xml
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Controllers.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Core.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Credentials.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Factories.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Logic.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Security.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.Streams.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\bin\Debug\Tweetinvi.WebLogic.pdb
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.csproj.AssemblyReference.cache
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.csproj.SuggestedBindingRedirects.cache
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.SMTool.resources
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.Interaction_Graph.resources
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.Properties.Resources.resources
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.csproj.GenerateResource.cache
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.csproj.CoreCompileInputs.cache
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.csproj.CopyComplete
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.exe
+E:\Dosya mosya cart curt\Documents\Sodimer\SMTool\SMTool\obj\Debug\SMTool.pdb
